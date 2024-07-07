@@ -49,7 +49,7 @@ Follow these steps to use Manuscript Translator Pro:
 We welcome contributions! Please read our [CONTRIBUTING.md](https://github.com/Nick9695/Manuscript-Translator-Pro/blob/main/CONTRIBUTING.txt) to get started.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nick9695/Manuscript-Translator-Pro/blob/main/License.txt) file for details.
 
 ## Acknowledgements
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
